@@ -1,0 +1,14 @@
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\bin\Debug\net10.0\firstcodeC#Folder.exe
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\bin\Debug\net10.0\firstcodeC#Folder.deps.json
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\bin\Debug\net10.0\firstcodeC#Folder.runtimeconfig.json
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\bin\Debug\net10.0\firstcodeC#Folder.dll
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\bin\Debug\net10.0\firstcodeC#Folder.pdb
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.AssemblyInfoInputs.cache
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.AssemblyInfo.cs
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.csproj.CoreCompileInputs.cache
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.dll
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\refint\firstcodeC#Folder.dll
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.pdb
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\firstcodeC#Folder.genruntimeconfig.cache
+C:\Users\JoyCelyn\Downloads\notepad\firstcodeC#Folder\obj\Debug\net10.0\ref\firstcodeC#Folder.dll
